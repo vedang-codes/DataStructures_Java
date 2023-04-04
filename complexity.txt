@@ -1,0 +1,4 @@
+O(n^2)
+
+because, in the condition of while loop we can see there is a 'n' complexity and further while using trim and 
+  concatenating the text in the 'text' it has n complexity so, in conclusion it has O(n^2) complexity.
